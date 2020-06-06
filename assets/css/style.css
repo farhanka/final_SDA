@@ -1,0 +1,22 @@
+.jumbotron {
+    height: 92vh;
+}
+
+body{
+    height: 100vh;
+}
+
+.copyright{
+    align-items:center;
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    padding: 25px;
+    bottom: 0px;
+}
+
+main{
+    min-height: calc( 100vh - 125px);
+}
